@@ -35,4 +35,4 @@
   - [My git Repo](https://github.com/wangheer2010)
   - [Contact Me](mailto:cw3211@columbia.edu)
   ## Video
-  - [My Video Instruction]()
+  - [My Video Instruction](https://www.bilibili.com/video/BV1Tr4y1G7rY?share_source=copy_web)
